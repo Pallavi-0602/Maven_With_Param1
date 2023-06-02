@@ -11,7 +11,6 @@ pipeline
                 echo 'Build App'
             }
         }
-
         stage('Test') 
         {
             steps 
